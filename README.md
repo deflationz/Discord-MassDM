@@ -56,7 +56,5 @@ Unverified bots cannot Mass DM servers over 1k+ members. Make sure your bot is v
 
 ## Contact Me
 
-﹒[Discord](https://discord.com/users/358310460187082763)
-﹒[Discord Server](https://discord.gg/4nSYqZ8KAA)
-﹒[Telegram](https://t.me/clairvoyant7teen)
-﹒[Steam](https://steamcommunity.com/id/seven777teen/)
+﹒[Discord] deflationz#7158
+﹒[Discord Server](https://discord.gg/UdSj59qsQg)
