@@ -1,7 +1,5 @@
 # Mass DM
 
-![image](https://pbs.twimg.com/media/FHCZp4SXMAQ_MEU?format=jpg&name=medium)
-
 **Description:** Tool which messages everyone in a Discord server (If user has DM's off they cannot be messaged).
 
 **Features:**
