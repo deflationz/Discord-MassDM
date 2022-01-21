@@ -55,4 +55,4 @@ Unverified bots cannot Mass DM servers over 1k+ members. Make sure your bot is v
 ## Contact Me
 
 ﹒[Discord] deflationz#7158
-﹒[Discord Server](https://discord.gg/UdSj59qsQg)
+﹒[Discord Server](https://discord.gg/XxsQzu738M)
